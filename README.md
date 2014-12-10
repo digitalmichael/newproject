@@ -7,3 +7,4 @@ I'm also using this for practice in my GitHub Intermediate class. The text edito
 ## Collaborators
 
 - Name: Michael
+  - changed by Michael
