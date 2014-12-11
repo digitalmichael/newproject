@@ -3,4 +3,8 @@ This is the first practice file inside this repository
 This file will have changes made to it as well as eventually later moving
 to a new directory
 
+<<<<<<< HEAD
 This is the last line. The really last line.
+=======
+This is the very last line.
+>>>>>>> f39f963607468cbfc9ab8475fbe625ce27cdb6fa
